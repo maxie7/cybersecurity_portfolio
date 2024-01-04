@@ -82,3 +82,13 @@ HIPAA is a federal law established in 1996 to protect U.S. patients' health info
 The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
 
 **Explanation**: Botium Toys needs to establish and enforce appropriate user access for internal and external (third-party vendor) personnel to mitigate risk and ensure data safety.
+
+
+## Stakeholder memorandum
+
+Complete each section of the stakeholder memorandum template to communicate your audit results and recommendations to stakeholders:
+-	Scope
+-	Goals
+-	Critical findings (must be addressed immediately)
+-	Findings (should be addressed, but no immediate need)
+-	Summary/Recommendations
