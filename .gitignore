@@ -1,0 +1,6 @@
+# Temporary files for e.g. tests
+/tmp
+
+# code editors && IDEs
+.vscode
+.idea
