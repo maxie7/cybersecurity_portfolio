@@ -1,10 +1,12 @@
-## Scenario & Tasks
+## Tasks
 
 In this activity, I will consider a scenario involving a customer of the company that I work for who experiences a security issue when accessing the company’s website. I will  identify the likely cause of the service interruption. Then, I will explain how the attack occurred and the negative impact it had on the website.
 
 Understanding how attacks impact a network will help me troubleshoot issues on my organization’s network. It will also help me take steps to mitigate damage and protect a network from future attacks.
 
 ---
+
+## Scenario
 
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like.
 
